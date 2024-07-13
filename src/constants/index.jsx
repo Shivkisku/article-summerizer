@@ -3,7 +3,7 @@ const PROJECT_NAME = "";
 const PROJECT_GITHUB_LINK = "";
 
 // Hero Section
-const HERO_TITLE_LEFT = "Summarize Articles";
+const HERO_TITLE_LEFT = "Articles Summarize";
 const HERO_TITLE_RIGHT = "";
 const HERO_SUBTITLE_LEFT = "Simplify your reading with";
 const HERO_SUBTITLE_RIGHT =
